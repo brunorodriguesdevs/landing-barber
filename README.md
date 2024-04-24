@@ -10,4 +10,4 @@ Cabeçalho (
 ): Contém a navegação, o logo da barbearia e um botão de agendamento. Sobre (
 ): Descreve informações sobre a barbearia. Serviços (
 ): Apresenta os serviços oferecidos pela barbearia. Rodapé (): Contém links para redes sociais, o logo da barbearia e informações de direitos autorais. Estilização CSS O arquivo style.css contém estilos CSS para estilizar a página. Ele inclui estilos para o cabeçalho, seções de conteúdo, rodapé, botão Whatsapp e outros elementos da página.
-https://brunorodriguesdevs.github.io/BARBER/
+https://brunorodriguesdevs.github.io/landing-barber/
