@@ -437,7 +437,11 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #06121e;
+  background-color: #FFF; /* Alterado para branco */
+  margin: 0 auto; /* Centraliza o corpo da página */
+  max-width: 1200px; /* Define a largura máxima */
+}
+
 }
 
 button {
