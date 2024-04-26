@@ -381,13 +381,13 @@ button:hover {
   justify-content: center;
   padding: 54px 0;
   gap: 24px;
-  color: #06121e;
+  color: #fff;
 }
 
 .footer-icons {
   display: flex;
   gap: 8px;
-  color: #FFF;
+  color: #06121e;
 }
 
 .btn-whatsapp {
