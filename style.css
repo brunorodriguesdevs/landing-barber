@@ -98,7 +98,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("assets/fundo.jpg");
+  background-image: linear-gradient(to bottom, rgba(245, 247, 248, 0.918), #06121e), url("assets/fundo.jpg");
   left: 0;
   top: 0;
   width: 100%;
@@ -180,11 +180,11 @@ i {
   padding: 14px 28px;
   color: #FFF;
   background-color: #d94140;
-  border: 2px solid #d94140; /* Adiciona uma borda inicial vermelha */
+  border: 2px solid #d94140; 
   font-size: 18px;
   font-weight: 600;
   margin: 14px 0;
-  position: relative; /* Necessário para adicionar sombras */
+  position: relative; 
 }
 
 .button-contact:hover {
@@ -194,11 +194,11 @@ i {
 @keyframes neonEffect {
   0% {
     box-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #FF0023, 0 0 35px #FF0023, 0 0 40px #FF0023, 0 0 50px #FF0023, 0 0 75px #FF0023;
-    border-color: #d94140; /* Mantém a borda vermelha */
+    border-color: #d94140; 
   }
   100% {
     box-shadow: none;
-    border-color: #FFF; /* Altera a cor da borda para branco */
+    border-color: #FFF; 
   }
 }
 
