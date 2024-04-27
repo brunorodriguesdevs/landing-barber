@@ -387,7 +387,7 @@ button:hover {
 .footer-icons {
   display: flex;
   gap: 8px;
-  color: #06121e;
+  color: #fff;
 }
 
 .btn-whatsapp {
