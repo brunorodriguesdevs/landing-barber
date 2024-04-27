@@ -151,6 +151,10 @@ i {
   text-align: center;
   margin: 14px 0;
 }
+p {
+    color: white;
+}
+
 
 .button-contact {
   padding: 14px 28px;
@@ -459,7 +463,4 @@ img {
 a {
   cursor: pointer;
   text-decoration: none;
-}
-p {
-    color: white;
 }
